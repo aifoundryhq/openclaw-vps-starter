@@ -13,7 +13,7 @@ Launch OpenClaw on a VPS quickly with a clean starter deployment script.
 Builders who want a quick starting point.
 
 ## Need a premium done-with-you setup?
-Book AI Foundry: https://calendly.com/aifoundryhq/setup?
+Book AI Foundry: https://calendly.com/aifoundryhq/setup
 
 ## Quick Start
 git clone ...
