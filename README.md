@@ -58,5 +58,9 @@ SSH into your VPS:
 ```bash
 ssh your-user@your-server-ip
 
-Need help deploying OpenClaw faster?
+```md
+## Need Help?
+
+If you'd rather skip setup and get it deployed quickly:
+
 Book setup help: https://calendly.com/aifoundryhq/setup
