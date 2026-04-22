@@ -1,22 +1,59 @@
-# OpenClaw VPS Starter
+# OpenClaw Starter Installer
 
-Launch OpenClaw on a VPS quickly with a clean starter deployment script.
+Deploy a clean, localhost-only OpenClaw setup on an Ubuntu VPS in minutes.
 
-## What this does
-- Installs Docker
-- Deploys OpenClaw
-- Basic config setup
-- Localhost-safe defaults
-- Telegram optional
+This project is a **public starter edition** designed to help developers, builders, and operators get a secure baseline OpenClaw environment running quickly.
 
-## Who it's for
-Builders who want a quick starting point.
+It is intentionally simple, useful, and trust-building.
 
-## Need a premium done-with-you setup?
-Book AI Foundry: https://calendly.com/aifoundryhq/setup
+---
 
-## Quick Start
-git clone ...
-cd ...
-chmod +x install.sh
-./install.sh
+## What This Includes
+
+✅ Ubuntu VPS installer  
+✅ Docker + Docker Compose setup  
+✅ OpenClaw clone + bootstrap  
+✅ Localhost-only network bindings  
+✅ `.env` generation  
+✅ Health checks  
+✅ Optional UFW firewall enablement  
+✅ Telegram-ready pairing flow  
+✅ Clean post-install summary
+
+---
+
+## What This Does NOT Include
+
+This public starter intentionally excludes advanced premium/internal features such as:
+
+❌ Deep troubleshooting automation  
+❌ Repair / upgrade workflows  
+❌ Client presets  
+❌ Advanced hardening packs  
+❌ Deployment support bundles  
+❌ White-glove onboarding
+
+If you’d rather skip setup headaches and get production-ready help fast, see the support section below.
+
+---
+
+# Requirements
+
+- Ubuntu VPS
+- Non-root sudo user
+- Internet access
+- Fresh server recommended
+
+Tested on:
+
+- Ubuntu 22.04+
+- Ubuntu 24.04+
+
+---
+
+# Quick Start
+
+SSH into your VPS:
+
+```bash
+ssh your-user@your-server-ip
