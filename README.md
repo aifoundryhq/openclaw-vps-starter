@@ -57,6 +57,7 @@ SSH into your VPS:
 
 ```bash
 ssh your-user@your-server-ip
+```bash
 
 ```md
 ## Need Help?
