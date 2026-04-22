@@ -233,5 +233,5 @@ Helping builders deploy useful AI systems faster.
 Follow for more:
 
 * GitHub: https://github.com/aifoundryhq
-* YouTube: Add your channel link
-* X / Twitter: Add your X link
+* YouTube: https://www.youtube.com/@aifoundryhq
+* X / Twitter: https://x.com/aifoundryhq?s=21&t=vqGd3w_4Ral6LfAeR8Jviw
